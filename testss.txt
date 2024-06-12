@@ -1,0 +1,18 @@
+stack using scratch :
+your stack is empty
+100--->90--->80--->70--->60--->50--->40--->40--->30--->20--->10--->None
+the value of the top os stack is 100
+the poped value is 100
+the stack after pop is :
+90--->80--->70--->60--->50--->40--->40--->30--->20--->10--->None
+your stack has 9 nodes
+the value of the top os stack is 90
+
+
+stack using linked list :
+your stack is empty
+100 ---> 90 ---> 80 ---> 70 ---> 60 ---> 50 ---> 40 ---> 30 ---> 20 ---> 10 ---> None
+the value of the top of stack is : 100
+90 ---> 80 ---> 70 ---> 60 ---> 50 ---> 40 ---> 30 ---> 20 ---> 10 ---> None
+your stack has 9 Nodes
+the value of the top of stack is : 90
